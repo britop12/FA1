@@ -1,6 +1,8 @@
 
 # Trabajo 01: Modelos de riesgo de crédito
 
+## Equipo 3
+
 **Página web: [https://britop12-fa1app-app-2i8qzn.streamlit.app](https://britop12-fa1app-app-2i8qzn.streamlit.app/)**
 
 **Vídeo: [https://youtu.be/mea7m4NN87k](https://youtu.be/mea7m4NN87k)**

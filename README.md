@@ -3,7 +3,7 @@
 
 ## Equipo 3
 
-- Integrantes
+**Integrantes:**
 
 Miguel Angel Bula Carmona
 
